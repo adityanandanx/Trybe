@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==5.1
+django-cors-headers==4.4.0
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+drf-extra-fields==3.7.0
+filetype==1.2.0
+PyJWT==2.9.0
+sqlparse==0.5.1
