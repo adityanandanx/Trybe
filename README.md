@@ -8,8 +8,8 @@ Trybe connects you to event sponsors and helps you to manage tasks for seamless 
 3. Plan out events in advance
 
 ## Tech Stack
-- **Backend:** Django, Django Rest Framework
-- **Frontend:** Nextjs 14, ShadcnUI
+- **Backend:** [Django](https://www.djangoproject.com/), [Django Rest Framework](https://www.django-rest-framework.org/)
+- **Frontend:** [Nextjs 14](https://nextjs.org/), [ShadcnUI](https://ui.shadcn.com/)
 
 ## Development setup:
 ### Pre-requisites:
