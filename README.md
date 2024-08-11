@@ -62,4 +62,19 @@ Trybe connects you to event sponsors and helps you to manage tasks for seamless 
     pnpm dev
     ```
 
-
+> **_Note:_**
+>
+> In order to fix the following error while the setup on windows
+> ```ps
+> about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
+> At line:1 char:1
+> + .venv\Scripts\Activate.ps1
+> + ~~~~~~~~~~~~~~~~~~~~~~~~~~
+>     + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+>     + FullyQualifiedErrorId : UnauthorizedAccess 
+> ```
+> Run the command :
+> ```ps
+> Set-ExecutionPolicy Unrestricted -Scope Process
+> ```
+> ***
