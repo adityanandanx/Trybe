@@ -3,9 +3,32 @@ Trybe connects you to event sponsors and helps you to manage tasks for seamless 
 
 
 ## Features:
-1. Get sponsorships for your events
-2. Keep track of tasks
-3. Plan out events in advance
+### For Organizers - All Your Needs in One Place
+1. Manage your student club, group, branch, or organization efficiently.
+2. Keep track of your team's progress and tasks.
+3. Create and plan events easily.
+4. Connect with potential sponsors and pitch to them.
+5. Stay connected with alumni and receive guidance for the smooth running of your organization.
+6. Manage your event budget, including registration fees, prize money, sponsored funds, etc.
+7. Utilize a smooth attendance system based on QR codes and an easy way to distribute certificates.
+8. Host and provide coupons or offers from sponsors to increase the chances of profit for the sponsor, thus improving your chances of securing sponsorship.
+9. View and control the points system.
+
+### For Students or Attendees
+1. Find events you're interested in and enroll easily.
+2. Never lose track of what's going on in your university or even in others.
+3. Follow clubs or events that interest you.
+4. Easily access certificates.
+5. Earn experience points to redeem for swag.
+6. Use points to redeem coupons from local shops or major brands.
+
+### For Sponsors - An Easy Way to Promote Your Business or Brand
+1. Find events with the right target audience for you.
+2. Explore and learn about the organizers, their achievements, and accomplishments.
+3. Easily promote your business or brand by connecting directly with organizers.
+4. Provide promotional offers to connect directly with your target audience.
+5. Conduct surveys to analyze a specific audience or even their target audience.
+
 
 ## Tech Stack
 - **Backend:** [Django](https://www.djangoproject.com/), [Django Rest Framework](https://www.django-rest-framework.org/)
@@ -77,4 +100,8 @@ Trybe connects you to event sponsors and helps you to manage tasks for seamless 
 > ```ps
 > Set-ExecutionPolicy Unrestricted -Scope Process
 > ```
+> In case you are unable to activate envoirnment in windows powershell or cmd then use git bash terminal and enter the following command.
+>```bash
+>source .venv/bin/activate
+>```
 > ***
